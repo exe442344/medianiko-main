@@ -1,0 +1,18 @@
+{
+  "name": "medianiko-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "firebase": "^9.6.1",
+    "muuri": "^0.9.5",
+    "web-animations-js": "^2.3.2"
+  }
+}
